@@ -3,5 +3,5 @@ const {
 } = require('./lib/validasi')
 exp('kosong')
 while (true) {
-  console.log('Expired hehehehehehe');
+  console.log('aku bapakmuuuu');
 }
