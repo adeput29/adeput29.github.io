@@ -26,7 +26,15 @@
 	{
         "title": "Pengumuman",
         "deskripsi_singkat": "Hindari Trx dijam 11:30 - 12:30",
-        "pesan": "Jangan pernah memberikan informasi pribadi anda. Toko Putra tidak pernah meminta informasi pribadi seperti user ID, PIN atau Password. Apabila ada aktifitas mencurigakan segera ganti PIN atau Password anda di menu pengaturan. ",
+        "pesan": "Jangan pernah memberikan informasi pribadi anda. Toko Putra tidak pernah meminta informasi pribadi seperti user ID, PIN atau Password.",
+        "tanggal_kirim": "2024-08-17T16:41",
+        "link_tujuan": "https:\/\/tokoputra.com"
+    },
+	
+	{
+        "title": "Pengumuman",
+        "deskripsi_singkat": "Hindari Trx dijam 11:30 - 12:30",
+        "pesan": "Apabila ada aktifitas mencurigakan segera ganti PIN atau Password anda di menu pengaturan. ",
         "tanggal_kirim": "2024-08-17T16:41",
         "link_tujuan": "https:\/\/tokoputra.com"
     },
