@@ -1,6 +1,6 @@
 [
     {
-        "pesan": "Hindari Transaksi di jam 23:30-00:30, dikarnakan pada jam tsb dilakukan maintenance/cut off harian, sehingga kemungkinan 
+        "pesan": "Hindari Transaksi di jam 23:30-00:30, dikarnakan pada jam tsb dilakukan maintenance/cut off harian, sehingga kemungkinan transaksi akan pending/gagal",
         "tanggal_kirim": "2024-08-17T16:41"
     },
 	
